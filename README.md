@@ -28,7 +28,7 @@ The key findings from the analysis include:
 ## Dashboard
 [Click here to view the interactive dashboard](https://onedrive.live.com/view.aspx?resid=9CFBF646C73A23BB!146&ithint=file%2cxlsx&wdo=2&authkey=!AGn7WdBwmmgRubM)
 
-![Dashboard](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Cross%20Selling%20Recommendations%20for%20Banking%20Products/cross%20sell.png)
+![Dashboard](https://github.com/atamgbo/EnhancingBenchmarkCutt-offsAndInsightsForStudentPerformance/blob/main/Screenshot%202023-08-25%20at%202.28.38%20PM.png)
 ## Future Works
 
 - Expanded Variables: Incoperating additional variables such as student attendance and study habits to identify a stronger positive relation with the CAASPP proficiency assessment and provide insights into ways of adjusting the internal benchmark cutt-off to align with the CAASPP assessment.
