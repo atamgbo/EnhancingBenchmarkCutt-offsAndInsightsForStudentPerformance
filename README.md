@@ -26,9 +26,9 @@ The key findings from the analysis include:
 - Teacher Performance Analysis: the evaluation of teachers performance in accordance with round 3 test result (Final test result before CAASPP assessment) shows a large variation between the best performing teacher and the least. Note that the least performing teachers are ELA teachers and the best performing teachers are the Math teachers. it would be recommended to consider professional development opportunities, subject-specific workshops, and collaborative learning communities that could enhance ELA teachers literacy skills and encourage ELA teachers to learn successful strategies and techniques from Math teachers.
 - 
 ## Dashboard
-[Click here to view the interactive dashboard](https://1drv.ms/x/s!ArsjOsdG9vucgRQPLkB1Q-I100Bb)
 
 ![Dashboard](https://github.com/atamgbo/EnhancingBenchmarkCutt-offsAndInsightsForStudentPerformance/blob/main/Rocketship%20School.png)
+[Click here to view the interactive dashboard](https://1drv.ms/x/s!ArsjOsdG9vucgRQPLkB1Q-I100Bb)
 ## Future Works
 
 - Expanded Variables: Incoperating additional variables such as student attendance and study habits to identify a stronger positive relation with the CAASPP proficiency assessment and provide insights into ways of adjusting the internal benchmark cutt-off to align with the CAASPP assessment.
