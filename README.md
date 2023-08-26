@@ -28,7 +28,7 @@ The key findings from the analysis include:
 ## Dashboard
 [Click here to view the interactive dashboard](https://1drv.ms/x/s!ArsjOsdG9vucgRQPLkB1Q-I100Bb)
 
-![Dashboard](https://github.com/atamgbo/EnhancingBenchmarkCutt-offsAndInsightsForStudentPerformance/blob/main/Screenshot%202023-08-25%20at%202.28.38%20PM.png)
+![Dashboard](https://github.com/atamgbo/EnhancingBenchmarkCutt-offsAndInsightsForStudentPerformance/blob/main/Rocketship%20School.png)
 ## Future Works
 
 - Expanded Variables: Incoperating additional variables such as student attendance and study habits to identify a stronger positive relation with the CAASPP proficiency assessment and provide insights into ways of adjusting the internal benchmark cutt-off to align with the CAASPP assessment.
