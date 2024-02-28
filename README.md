@@ -1,4 +1,4 @@
-# Rocketship Student Performance Analysis
+# CAASPP Alignment Analysis: Enhancing Student Performance Prediction
 
 ## Introduction
 This project is focused on performing comprehensive analsysi to explore and align Rocketship Public Schools' internal benchmark cutt-offs with the CAASPP proficiency levels (California Assessment of Student Performance and Progress) for accurate prediction of student performance.
